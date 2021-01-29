@@ -1,0 +1,6 @@
+app
+tags
+.vscode
+
+syntax: glob
+*.o
